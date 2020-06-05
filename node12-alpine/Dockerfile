@@ -1,4 +1,4 @@
-FROM node:12.16-alpine3.11
+FROM node:12-alpine3.11
 LABEL maintainer="Jhon H. Caicedo"
 LABEL e-mail="jhcaiced@inticol.com"
 
